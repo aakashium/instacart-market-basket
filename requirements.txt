@@ -4,3 +4,5 @@ numpy
 matplotlib
 seaborn
 pyarrow
+scikit-learn
+lightgbm
